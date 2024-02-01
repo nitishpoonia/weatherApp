@@ -4,6 +4,7 @@
 #  Clima
 ## About this app
 ![clima](https://github.com/nitishpoonia/weatherApp/assets/56960128/04725d85-3c36-4dcc-a3f9-7f5c06bee6e7)
+
 This app is dark mode enabled weather app which checks current weather using search field and current location of the device.
 
 ## Skills Learn
@@ -24,6 +25,4 @@ This app is dark mode enabled weather app which checks current weather using sea
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
