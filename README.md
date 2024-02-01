@@ -7,7 +7,7 @@
 
 This app is dark mode enabled weather app which checks current weather using search field and current location of the device.
 
-## Skills Learn
+## Skills Learnt
 
 
 * How to create a dark-mode enabled app.
